@@ -4,4 +4,12 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql:8.0.39
 #vulhub/oracle:12c-ee
-datagrip/oracle:11.2
+#datagrip/oracle:11.2
+apache/rocketmq:latest
+apache/rocketmq:5.3.1
+elestio/minio:latest
+redis:latest
+nginx:latest
+vulhub/xxl-job:2.2.0-executo
+vulhub/xxl-job:2.2.0-admin
+nacos/nacos-server:latest
