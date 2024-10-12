@@ -2,4 +2,5 @@
 #opengrok/docker
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql:8.0.39
+#mysql:8.0.39
+vulhub/oracle:12c-ee
