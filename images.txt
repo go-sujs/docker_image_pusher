@@ -10,6 +10,7 @@
 #elestio/minio:latest
 #redis:latest
 #nginx:latest
-vulhub/xxl-job:2.2.0-executo
-vulhub/xxl-job:2.2.0-admin
-nacos/nacos-server:latest
+#vulhub/xxl-job:2.2.0-executo
+#vulhub/xxl-job:2.2.0-admin
+#nacos/nacos-server:latest
+xuxueli/xxl-job-admin:2.4.1
