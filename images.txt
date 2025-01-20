@@ -18,4 +18,4 @@
 #truevoly/oracle-12c
 #apache/kafka:3.7.0
 #apache/kafka
-python:3.10-slim
+python:3.9-slim
