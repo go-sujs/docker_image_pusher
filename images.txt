@@ -19,4 +19,5 @@
 #apache/kafka:3.7.0
 #apache/kafka
 #python:3.9-slim
-consul:1.15.4
+#consul:1.15.4
+python:3.9
