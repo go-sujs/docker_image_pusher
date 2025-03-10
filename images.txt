@@ -23,4 +23,5 @@
 #python:3.10
 #nacos/nacos-server
 adoptopenjdk/openjdk17:latest
-oraclelinux/oracle-jdk:17
+#oraclelinux/oracle-jdk:17
+openjdk:8
